@@ -4,7 +4,7 @@ This project focuses on analyzing the monthly profit growth of a retail store ac
 
 Link to dataset on Kaggle ➡︎ https://www.kaggle.com/datasets/ankitbansal06/retail-orders
 
-Link to the London Bike Rides Tableau dashboard ➡︎ 📈 https://public.tableau.com/views/ProfitGrowth_17198855741870/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+Link to the Profit Growth Tableau dashboard ➡︎ 📈 https://public.tableau.com/views/ProfitGrowth_17198855741870/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
 
 RESULTS:
